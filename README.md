@@ -2,7 +2,8 @@ This plugin can be installed manually in worpress by downloading the zip file  [
 
 Or you can also install it using composer (Tested with bedrock). You have to add a package repository to composer with the following information:
 
-{
+```
+    {
       "type": "package",
       "package": {
         "name": "rafalfaro18/rar-example-plugin",
@@ -17,3 +18,4 @@ Or you can also install it using composer (Tested with bedrock). You have to add
         }
       }
     }
+```
