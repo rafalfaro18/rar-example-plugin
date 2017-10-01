@@ -1,3 +1,7 @@
 {
-  "name": "rafalfaro18/rar-example-plugin"
+  "name": "rafalfaro18/rar-example-plugin",
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "v1.0.6"
+  }
 }
